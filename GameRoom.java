@@ -12,6 +12,16 @@ public class GameRoom {
     private String gameMode;
     private long leaderUserId;
 
+    private int testAttribute;
+
+    private int testAttributes;
+
+    private int testRepo1;
+    
+    private int testRepo11;
+
+    private int testRepo111;
+
     public long getLeaderUserId() {
         return leaderUserId;
     }
